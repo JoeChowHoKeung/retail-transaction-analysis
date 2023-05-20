@@ -72,12 +72,12 @@ df = raw.query('country in "United Kingdom"')
 
 - **Customer Segmentation**
     
-    [RFM Clustering](retail%20transaction%20analysis%20a6937da9602749fda24f1b45fd245d65/RFM%20Clustering%20391e432790e84abfa775617e6ea7b54b.md)
+    [RFM Clustering](RFM%20Clustering%20391e432790e84abfa775617e6ea7b54b.md)
     
 
 - **Cohort Analysis**
     
-    [Cohort Analysis](retail%20transaction%20analysis%20a6937da9602749fda24f1b45fd245d65/Cohort%20Analysis%2075c255beb26d44ce837546b0e663b13c.md)
+    [Cohort Analysis](Cohort%20Analysis%2075c255beb26d44ce837546b0e663b13c.md)
     
 
 - **Product Categories Clustering**
