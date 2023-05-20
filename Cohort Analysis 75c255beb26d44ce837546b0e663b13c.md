@@ -33,7 +33,7 @@ Once the customer made a purchase at the current month, customer would be identi
 
 - **Life-Time Consumption**
     
-    ![496087e2-5546-46e0-b9c8-b5763d2ea8a3.png](Cohort%20Analysis%2075c255beb26d44ce837546b0e663b13c/496087e2-5546-46e0-b9c8-b5763d2ea8a3.png)
+    ![496087e2-5546-46e0-b9c8-b5763d2ea8a3.png](496087e2-5546-46e0-b9c8-b5763d2ea8a3.png)
     
     - **Code**
         
@@ -73,7 +73,7 @@ Once the customer made a purchase at the current month, customer would be identi
     - Additionally, in May 2011, there was a significant increase from around 16% to over 20%. This presents an interesting opportunity for in-depth study.
 - **Sales Trends**
     
-    ![0f399f31-aafb-4e64-8aa5-af8a9451f735.png](Cohort%20Analysis%2075c255beb26d44ce837546b0e663b13c/0f399f31-aafb-4e64-8aa5-af8a9451f735.png)
+    ![0f399f31-aafb-4e64-8aa5-af8a9451f735.png](0f399f31-aafb-4e64-8aa5-af8a9451f735.png)
     
     - **Code**
         
@@ -111,7 +111,7 @@ Once the customer made a purchase at the current month, customer would be identi
     - Some cohorts, *such as cohort(2010-12) and cohort(2011-02)*,  exhibit stable and positive sales growth. There may be a slight decrease excepting for the second month from the start, but overall there is a significant boost to the growth.
 - **Customer Retention**
     
-    ![16d6c85c-4295-4431-ad06-b44d4956eb24.png](Cohort%20Analysis%2075c255beb26d44ce837546b0e663b13c/16d6c85c-4295-4431-ad06-b44d4956eb24.png)
+    ![16d6c85c-4295-4431-ad06-b44d4956eb24.png](16d6c85c-4295-4431-ad06-b44d4956eb24.png)
     
     - **Code**
         
